@@ -1,8 +1,8 @@
 :root {
-    --fondo: #ffccff;
-    --primario: #ff99ff;
-    --primario-oscuro: #ff33cc;
-    --marco: #ffcccc;
+    --fondo: #FF33FF;
+    --primario: #FF99FF;
+    --primario-oscuro: #FF33CC;
+    --marco: #FFCCCC;
     --texto: #990099;
 }
 
@@ -130,4 +130,5 @@ footer {
     margin-top: 50px;
     box-shadow: 0 -3px 12px rgba(0,0,0,0.1);
 }
+
 
